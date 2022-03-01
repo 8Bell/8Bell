@@ -4,6 +4,7 @@
 </div>
 
 #
+<br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=8Bell&show_icons=true&count_private=true&hide_title=true&hide_border=ture&icon_color=eeeeee&bg_color=0E1116&text_color=ffffff" />
@@ -13,4 +14,8 @@
 </a>
 
 #
+<br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=8bell)](https://solved.ac/8bell/)
+
+#
