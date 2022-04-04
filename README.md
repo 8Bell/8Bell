@@ -16,6 +16,4 @@
 #
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=8bell)](https://solved.ac/8bell/)
-
 #
